@@ -84,9 +84,14 @@ header p {
 .content {
     padding: 30px;
 }
+<<<<<<< HEAD
 .content h4 {
     margin-top: 0;
     font-size: 1.2em;
+=======
+.content h3 {
+    margin-top: 0;
+>>>>>>> 6604cc7a70c7d273a7ce685a9455136c4c0da373
 }
 .content p {
     color: var(--GrayishBlue);
